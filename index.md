@@ -1,10 +1,5 @@
 # Development at IDT911 (GitHub Version)
 
-## Coding Standards
-_TODO_
+## Coding Standards and Development Guidelines
 
-## Git and GitHub Usage
-_TODO_
-
-## Other Considerations
-_TODO_
+Development standards [here](/conventions-and-standards/)
