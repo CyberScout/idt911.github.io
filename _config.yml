@@ -1,0 +1,8 @@
+title: idt911.github.io
+description: Development at IDT911
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
